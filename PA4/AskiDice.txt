@@ -1,0 +1,8 @@
+           _______
+printf("  /\ o o o\\n");
+printf(" /o \ o o o\_______\n");_
+printf("      ------   o  /|\n");
+printf(" \ o/  o   /_____/o|\n");
+printf("  \/______/     |oo|\n");
+printf("        |   o   |o/\n");
+printf("        |_______|/\n");
